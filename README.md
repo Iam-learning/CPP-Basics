@@ -5,7 +5,7 @@ This repo contains rough explaination and examples about different topics in c++
 
 ## Topics :
 
-[1.Comments, Variables](https://github.com/HarshitKumarOjha)
+[1.Comments, Variables](https://github.com/HarshitKumarOjha/CPP-Basics/blob/main/Basics/Comments%2C%20Variables.md)
 
 2.Data Types
 
