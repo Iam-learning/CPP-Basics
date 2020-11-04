@@ -2,7 +2,7 @@
 
 ## 0.Basics structure
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -14,10 +14,10 @@ return 0;
 
 ## 1.Comments
 
-```
+```cpp
     //single line comment
 ```
-```
+```cpp
     /*multiline
     comment*/
 ```    
@@ -32,7 +32,7 @@ variable naming rules :
 
 camel case notation:
 
-```
+```cpp
 int marksInMaths=83;
 ```
 
@@ -40,3 +40,20 @@ if i'll type `cout<<mim;` the intellisence will show `marksInMaths`
 
 ## 3.Data Types:
 
+Data types according to their size :
+
+```cpp
+    short a;
+    int b =89;
+    long c;
+    long long d;
+    float const score = 45.32;  //once I assign a value of score, I can't re assign it in any part of programme bcz i wroe that `const` thing before the variable name
+    double score2 = 45.322;
+    long double score3 = 45.333;
+```
+
+printing example :
+
+```cpp 
+  cout<<"the score is "<<score<<endl;
+```
