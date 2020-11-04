@@ -57,3 +57,28 @@ printing example :
 ```cpp 
   cout<<"the score is "<<score<<endl;
 ```
+
+## 4.Input/Output
+
+steps:
+- create a variable
+- Input a value in it
+- Print it
+
+```cpp
+    int a, b;
+
+    cout<<"Enter a number "<<endl;
+    cin>>a;
+
+    cout<<"Enter second number "<<endl;
+    cin>>b;
+    
+    basic arithmatic operations:
+    
+    
+    cout<<"a + b is "<< a + b<<endl;
+    cout<<"a - b is "<< a - b<<endl;
+    cout<<"a * b is "<< a * b<<endl;
+    cout<<"a / b is "<<(float)a / b<<endl; //if 4 will be divided as an integer with 3 then it will giv 1, to show the floar/actual value we have to type cast it to float
+```
