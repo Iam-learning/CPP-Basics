@@ -1,5 +1,17 @@
 # All stuff from [Basics](https://github.com/HarshitKumarOjha/CPP-Basics/tree/main/Basics) in one markdown file 
 
+## 0.Basics structure
+
+```
+#include <iostream>
+using namespace std;
+
+int main(){
+    cout<<"Hello World :D"<<endl;
+return 0;
+}
+```
+
 ## 1.Comments
 
 ```
