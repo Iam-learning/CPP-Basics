@@ -82,3 +82,161 @@ steps:
     cout<<"a * b is "<< a * b<<endl;
     cout<<"a / b is "<<(float)a / b<<endl; //if 4 will be divided as an integer with 3 then it will giv 1, to show the floar/actual value we have to type cast it to float
 ```
+
+
+## 5.Conditional statements
+
+```cpp
+    int age;
+    
+    cout<<"Enter your age: ";
+    cin>>age;
+
+
+    if(age>150 || age<1){
+        cout<<"invalid age";
+    }
+    else if(age>=18){
+        cout<<"You can vote"<<endl;
+    }
+    else{
+        cout<<"You can't vote";
+    } 
+    
+```
+
+## 6.Switch case
+
+Basic structure:
+
+```cpp
+switch (expression)
+{
+case constant-expression :
+     code 
+    break;
+
+default:
+    break;
+}
+
+```
+If there will be no break it will run all rest of the cases, 
+
+A default case is someting which will run every time when program runs.
+
+Example:
+
+```cpp
+   switch (age)
+    {
+    case 12:
+        cout<<"You are 12 years old"<<endl;
+        break; //break prevents execution of other cases.
+
+    case 18:
+        cout<<"You are 18 years old"<<endl;
+        break;     
+    
+    default:
+        cout<<"You are neither 12 nor 18 years old";
+        break;
+    }
+```
+
+## 7. Loops
+
+### - While loop
+
+it is a simple loop. it runs until the condition is false.
+
+```cpp
+int index = 0;
+    
+    while(index<34){
+        cout<<"this is index number "<<index<<endl;
+        index = index + 1;
+    }
+```    
+
+### - Do while
+
+It runs atleast one time
+
+basic structure:
+
+```cpp
+    do
+    {
+        /* code */
+    } while (/* condition */);
+```    
+
+Example :
+
+```cpp
+ int index = 0;
+
+    do
+    {
+        cout<<"this is index number "<<index<<endl;
+        index = index+1;
+
+    } 
+    while (index>33);
+    
+```    
+
+output:
+
+`this is index number 0`
+
+### - For loop
+
+```cpp
+for (int i = 0; i <= 34; i++)
+    {
+        cout<<"the value of i is "<<i<<endl;
+    }
+    
+```
+
+Output :
+
+```
+the value of i is 0
+the value of i is 1
+the value of i is 2
+...
+the value of i is 34
+```
+
+## 8.Functions
+
+```cpp
+#include <iostream>
+using namespace std;
+
+//creating a function :
+int sum(int a, int b){
+    int c;
+    c = a + b;
+    return c;
+}
+
+int main(){
+
+   //calling the funtion:
+   int a,b;
+
+    cout<<"Enter number A: "<<endl;
+    cin>>a;
+    
+    cout<<"Enter number B: "<<endl;
+    cin>>b;
+
+    cout<<"The function returned: "<<sum(a,b);
+
+return 0;
+}
+```
