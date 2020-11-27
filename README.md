@@ -3,6 +3,8 @@ made this repo to take c++ notes lol
 
 This repo contains rough explaination and examples about different topics in C++
 
+Installation guide [here](https://github.com/HarshitKumarOjha/CPP-Basics/blob/main/Basics/Installation%20guide.md)
+
 ## Topics :
 
 0. [Basic Structure](https://github.com/HarshitKumarOjha/CPP-Basics#0basics-structure)
