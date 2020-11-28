@@ -422,3 +422,6 @@ value of a is 34
 address of a is 0x61ff18
 address of a is 0x61ff18
 ```
+Feel free to contribute in this repo <3
+
+![lol](https://i.imgur.com/yPz3acs.gif)
