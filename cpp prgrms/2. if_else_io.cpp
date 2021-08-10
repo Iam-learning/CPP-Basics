@@ -11,7 +11,7 @@ int main (){
     cout<<"Enter second number "<<endl;
     cin>>b;
 
-    cout<<"Enter second number "<<endl;
+    cout<<"Enter third number "<<endl;
     cin>>c;
     
     if (a>b) {

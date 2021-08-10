@@ -28,7 +28,7 @@ int main(){
     cout << "Size of LongInt " << sizeof(li) << endl;
 
     int amount1;
-    cout << "give fisrst number ";
+    cout << "give first number ";
     cin >> amount1;
     
 

@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-    //For loop
+    //For loop 
+    //Sum of numbers till n
     
     int n;
     cout << "Enter a Nummber Limit: ";
