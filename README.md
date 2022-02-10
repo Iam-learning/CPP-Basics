@@ -3,35 +3,35 @@ made this repo to take c++ notes lol
 
 This repo contains rough explaination and examples about different topics in C++
 
-Installation guide [here](https://github.com/HarshitKumarOjha/CPP-Basics/blob/main/Basics/Installation%20guide.md)
+Installation guide [here](https://github.com/HeySkidee/CPP-Basics/blob/main/Basics/Installation%20guide.md)
 
 ## Topics :
 
-0. [Basic Structure](https://github.com/HarshitKumarOjha/CPP-Basics#0basics-structure)
+0. [Basic Structure](https://github.com/HeySkidee/CPP-Basics#0basics-structure)
 
-1. [Comments](https://github.com/HarshitKumarOjha/CPP-Basics#1comments)
+1. [Comments](https://github.com/HeySkidee/CPP-Basics#1comments)
 
-2. [Variables](https://github.com/HarshitKumarOjha/CPP-Basics#2variables)
+2. [Variables](https://github.com/HeySkidee/CPP-Basics#2variables)
 
-3. [Data Types](https://github.com/HarshitKumarOjha/CPP-Basics#3data-types)
+3. [Data Types](https://github.com/HeySkidee/CPP-Basics#3data-types)
 
-4. [Input & output](https://github.com/HarshitKumarOjha/CPP-Basics#4inputoutput)
+4. [Input & output](https://github.com/HeySkidee/CPP-Basics#4inputoutput)
 
-5. [Conditional statements](https://github.com/HarshitKumarOjha/CPP-Basics#5conditional-statements)
+5. [Conditional statements](https://github.com/HeySkidee/CPP-Basics#5conditional-statements)
 
-6. [Switch case](https://github.com/HarshitKumarOjha/CPP-Basics#6switch-case)
+6. [Switch case](https://github.com/HeySkidee/CPP-Basics#6switch-case)
 
-7. [Loops](https://github.com/HarshitKumarOjha/CPP-Basics#7-loops)
+7. [Loops](https://github.com/HeySkidee/CPP-Basics#7-loops)
 
-8. [Functions](https://github.com/HarshitKumarOjha/CPP-Basics#8functions)
+8. [Functions](https://github.com/HeySkidee/CPP-Basics#8functions)
 
-9. [Arrays](https://github.com/HarshitKumarOjha/CPP-Basics#9arrays)
+9. [Arrays](https://github.com/HeySkidee/CPP-Basics#9arrays)
 
-10. [Type Casting](https://github.com/HarshitKumarOjha/CPP-Basics#10type-casting)
+10. [Type Casting](https://github.com/HeySkidee/CPP-Basics#10type-casting)
 
-11. [Strings](https://github.com/HarshitKumarOjha/CPP-Basics#11strings)
+11. [Strings](https://github.com/HeySkidee/CPP-Basics#11strings)
 
-12. [Pointers](https://github.com/HarshitKumarOjha/CPP-Basics#12pointers)
+12. [Pointers](https://github.com/HeySkidee/CPP-Basics#12pointers)
 
 <hr>
 
